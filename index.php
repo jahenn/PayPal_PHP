@@ -1,5 +1,5 @@
 <?php
 
-echo "sas";
+echo "Iniciando en github...";
 
 ?>
