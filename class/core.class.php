@@ -1,6 +1,7 @@
 <?php
 
 $sas = new PayPal;
+$sas->get_token();
 
 /**
 * 
