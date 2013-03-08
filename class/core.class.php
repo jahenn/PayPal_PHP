@@ -4,7 +4,7 @@ $sas = new PayPal;
 $sas->get_token();
 
 /**
-* 
+* bla
 */
 class PayPal
 {
